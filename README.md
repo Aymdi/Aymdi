@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aymane</h1>
 <h3 align="center">Computer Science Student</h3>
 
-- 🔭 I’m currently R&D intern at [Continental](https://www.continental.com/fr-fr/)
+- 🔭 I’m currently looking for an end-of-study internship in computer development, ideally in R&D, for a period of 6 months, from February 2023.
 
-- 🌱 I’m currently learning **Mobile App Development**
+- 🌱 I’m currently learning **ROS**
 
 - 👨‍💻 I'm currently CS student at [ENSEIRB-MATMECA](https://enseirb-matmeca.bordeaux-inp.fr/fr)
 
