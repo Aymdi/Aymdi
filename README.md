@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ROS**
 
-- 👨‍💻 I'm currently CS student at [ENSEIRB-MATMECA](https://enseirb-matmeca.bordeaux-inp.fr/fr)
+- 👨‍💻 I'm currently CS student, specialized in robotics, at [ENSEIRB-MATMECA](https://enseirb-matmeca.bordeaux-inp.fr/fr)
 
 - 👨‍💻 Most of my projects are available at [https://github.com/Aymdi?tab=repositories](https://github.com/Aymdi?tab=repositories)
 
