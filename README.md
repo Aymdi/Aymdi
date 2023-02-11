@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aymane</h1>
 <h3 align="center">Computer Science Student</h3>
 
-- 🔭 I’m currently looking for an end-of-study internship in computer development, ideally in R&D, for a period of 6 months, from February 2023.
-
-- 🌱 I’m currently learning **ROS**
-
-- 👨‍💻 I'm currently CS student, specialized in robotics, at [ENSEIRB-MATMECA](https://enseirb-matmeca.bordeaux-inp.fr/fr)
+- 👨‍💻 I'm currently CS student with Robotics and AI specialization at [ENSEIRB-MATMECA](https://enseirb-matmeca.bordeaux-inp.fr/fr)
 
 - 👨‍💻 Most of my projects are available at [https://github.com/Aymdi?tab=repositories](https://github.com/Aymdi?tab=repositories)
 
