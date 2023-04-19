@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mdi.aymane@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aymane-lamhamdi/](https://www.linkedin.com/in/aymane-lamhamdi/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/aymane-lamhamdi/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
