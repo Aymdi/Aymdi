@@ -3,7 +3,7 @@
 
 - 👨‍💻 I'm currently CS student with Robotics and AI specialization at [ENSEIRB-MATMECA](https://enseirb-matmeca.bordeaux-inp.fr/fr)
 
-- 👨‍💻 Most of my projects are available at [https://github.com/Aymdi?tab=repositories](https://github.com/Aymdi?tab=repositories)
+- 👨‍💻 My last project, Hey Cobot, is available now on [GitLab](https://gitlab.bordeaux-inp.fr/aymaneMdi/hey-cobot)
 
 - 📫 How to reach me **mdi.aymane@gmail.com**
 
